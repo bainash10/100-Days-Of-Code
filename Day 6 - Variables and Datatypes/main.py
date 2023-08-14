@@ -28,7 +28,7 @@ list1 = [8, 2.3, [-4, 5], ["apple", "banana"]]
 print(list1)
 print("Type of variable is", type(list1))
 
-#tuple is oredered collection of items of different datatypes
+#tuple is ordered collection of items of different datatypes
 #tuple are immutable i.e cannot be changed
 #tuple are inside normal bracket()
 #sequence datatypes

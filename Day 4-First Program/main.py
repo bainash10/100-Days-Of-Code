@@ -12,7 +12,7 @@ print("17*23")
 
 #This is quiz from tutorial.md
 #Poem of my own
-print("Twinkle twinkle little \nstar how I wonder what you are \t This is a poem from Nischal\n", "How is it guys?"+"\nLiked it or not?") #Here + concatenates the strings nee to specify space
+print("Twinkle twinkle little \nstar how I wonder what you are \t This is a poem from Nischal\n", "How is it guys?"+"\nLiked it or not?") #Here + concatenates the strings need to specify space
 
 #NOTE:
 #This is single line Comment
