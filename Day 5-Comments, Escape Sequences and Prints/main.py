@@ -25,7 +25,7 @@ print("Hey", 6, 7, sep="~", end="009\n")  #at end 009 prints
 
 print("Hey", 6, 7, sep="~", end="NULL\n") 
 
-# Default separator is space and end is New Line
+# Default separator is space and default end is New Line
 
 print('Hey')
 print('Hey')
