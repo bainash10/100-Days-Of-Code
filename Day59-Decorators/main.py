@@ -29,4 +29,3 @@ def add(a,b):
     print(a+b)
 
 greet(add)(1,2)
-
