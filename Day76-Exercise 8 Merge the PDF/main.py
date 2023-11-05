@@ -1,17 +1,5 @@
 #Note always google things about each library dont read it on detail understand it and edit it as per your use
 
-# from PyPDF2 import PdfMerger
-# import os
-
-# merger = PdfMerger()
-# files=[file for file in os.listdir("Day76-Exercise 8 Merge the PDF") if file.endswith(".pdf")]
-
-# for pdf in files:
-#     merger.append(pdf)
-
-# merger.write("Day76-Exercise 8 Merge the PDF/merged-pdf.pdf")
-# merger.close()
-
 from PyPDF2 import PdfWriter
 import os
 
