@@ -18,4 +18,4 @@ o=DancerEmployee("Kathak","Shivani")
 print(o.name)
 print(o.dance)
 o.show()
-print(DancerEmployee.mro())
+print(DancerEmployee.mro()) #method resolution order->mro, to resolve conflicts between methods or attributes from different parent classes. The MRO determines the order in which parent classes are searched for attributes and methods.
