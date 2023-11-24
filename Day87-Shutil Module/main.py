@@ -12,7 +12,9 @@ import shutil
 
 # shutil.copytree("Day87-Shutil Module/tutorial","Day87-Shutil Module/mytutorial2")  created new folder
 
-shutil.rmtree("Day87-Shutil Module/mytutorial2")
+# shutil.rmtree("Day87-Shutil Module/mytutorial2") deletes mytutorial2 folder
+
+
 
 
 
